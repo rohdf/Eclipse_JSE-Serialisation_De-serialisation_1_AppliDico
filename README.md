@@ -1,0 +1,1 @@
+             -= README Eclipse_JSE-Serialisation_De-serialisation_1_AppliDico =-
